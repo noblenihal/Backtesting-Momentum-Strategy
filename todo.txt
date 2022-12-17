@@ -1,0 +1,7 @@
+[-] To get opening price of last year and closing price of yesterday for a given date, for all the stocks of index
+[-] Calculate the return for each, rank them accordingly
+
+[-] Select top 'n' stocks
+[-] Invest 'x' capital/money equally in every stock 
+
+[-] Repeat the first three steps, find the action you want to perform based on the difference b/w currentTopN vs previousTopN (BUY, SELL, HOLD)
